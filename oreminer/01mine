@@ -1,2 +1,0 @@
-./ore-miner  worker --route-server-url http://route.oreminepool.top:8080/ --woker-wallet-address CJxoYG6mgmEoXB9V2Mjsckodw3vvcSka4KaJHF9XvNRG --threads 1
-
